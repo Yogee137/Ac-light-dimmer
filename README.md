@@ -1,2 +1,2 @@
 # Ac-light-dimmer
-Its a Aurdino ide based code which create by using c language and the some Html tag this code is sufficient for mit app inventor for more about this project go to www.ac light fan seepd control using mit app. Com
+Its a Aurdino ide based code which create by using c language and the some Html tag this code is sufficient for mit app inventor for more about this project go to https://www.google.com/search?q=esp8266+wifi+ac+light+dimmer+using+mit+app+inventor&oq=esp8266+wifi+ac+light+dimmer&aqs=chrome.1.69i57j33i160j33i22i29i30.25475j0j4&client=ms-android-xiaomi-rvo2&sourceid=chrome-mobile&ie=UTF-8
